@@ -1,4 +1,4 @@
-# awesome-oac-gen2
+# awesome-oci-gen2
 Resources to use Oracle Cloud Infrastructure (OCI) Gen2
 
 - [OCI Oficial Documentation](https://docs.cloud.oracle.com/en-us/iaas/Content/home.htm)
