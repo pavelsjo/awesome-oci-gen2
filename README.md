@@ -28,3 +28,7 @@ Resources to use Oracle Cloud Infrastructure (OCI) Gen2
 ### DOCS
 
 - [Technical White Papers](https://docs.cloud.oracle.com/en-us/iaas/Content/General/Reference/aqswhitepapers.htm)
+
+## OTHER RESOURCES
+
+[TYPICAL ENCODING](https://docs.microsoft.com/en-us/dotnet/api/system.text.encoding?view=netframework-4.8)
