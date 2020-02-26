@@ -20,7 +20,8 @@ Resources to use Oracle Cloud Infrastructure (OCI) Gen2
  
 - [Oracle Cloud Infrastructure Python SDK - 2.10.5](https://github.com/oracle/oci-python-sdk)
     - [docs](https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/latest/index.html) 
-    
+- [Terraform-providers-OCI](https://github.com/terraform-providers/terraform-provider-oci)
+
 ### ARCHITECTURE DIAGRAMNS
 
 - [Graphics for Topologies and Diagrams](https://docs.cloud.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm)
