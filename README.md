@@ -9,6 +9,7 @@ Resources to use Oracle Cloud Infrastructure (OCI) Gen2
 - [Policy](https://docs.cloud.oracle.com/en-us/iaas/Content/Identity/Reference/policyreference.htm)
 - [API Gateway](https://docs.cloud.oracle.com/en-us/iaas/Content/APIGateway/Concepts/apigatewayoverview.htm)
 - [Service Limits](https://docs.cloud.oracle.com/en-us/iaas/Content/General/Concepts/servicelimits.htm)
+- [OCI IMAGES](https://docs.cloud.oracle.com/en-us/iaas/images/)
 
 ### DEVELOPERS
 
